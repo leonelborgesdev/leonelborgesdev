@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonel</h1>
 <h3 align="center">A university student at UAJMS, Sistem Engineering</h3>
-<center><img  align="center" src="https://codeberryschool.com/blog/wp-content/uploads/2021/08/cover-1.png" /></center>.
-
-
+<center><img  align="center" src="https://codeberryschool.com/blog/wp-content/uploads/2021/08/cover-1.png" /></center>
 - 🌱 I’m currently learning **TypeScript, React-Native, Mongodb**
 
 - 💬 Ask me about **React, Redux, Node.js**
