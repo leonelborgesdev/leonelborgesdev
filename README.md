@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonel</h1>
 <h3 align="center">A university student at UAJMS, Sistem Engineering</h3>
 <center><img  align="center" src="https://codeberryschool.com/blog/wp-content/uploads/2021/08/cover-1.png" /></center>
+
 - 🌱 I’m currently learning **TypeScript, React-Native, Mongodb**
 
 - 💬 Ask me about **React, Redux, Node.js**
@@ -17,3 +18,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonelborgesdev&show_icons=true&locale=en&layout=compact" alt="leonelborgesdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonelborgesdev&" alt="leonelborgesdev" /></p>
+
+<p>📌My Proyects:</p>
+  
+- **BarberApp** 
+
+<p><img align="center" src="https://camo.githubusercontent.com/c816ccb61ca21e548eb074e7ef58cf58b00f1a76248a26d3b554ab8a6deaa084/68747470733a2f2f692e6962622e636f2f564a64785a31542f53696e2d742d74756c6f2e706e67" alt="leonelborgesdev"  height="250" width="400" /> <img align="center" src="https://camo.githubusercontent.com/db5fe7c3b683ab5d1c10b43357f0229e70b6c51830ebc3e8e1e2825757d15406/68747470733a2f2f692e6962622e636f2f5968524a3254312f322e706e67" alt="leonelborgesdev"  height="250" width="400"/></p> 
+
+<p><img align="center" src="https://camo.githubusercontent.com/952dfd62f854348aeac570c109078b44f33a505fc1fb02f01b577786d62d4734/68747470733a2f2f692e6962622e636f2f6d304a683052432f342e706e67" alt="leonelborgesdev"  height="250" width="400"/> </p> 
