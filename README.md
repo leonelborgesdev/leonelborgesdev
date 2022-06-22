@@ -22,12 +22,14 @@
   
 - **BarberApp**
 
-<p><img align="center" src="https://camo.githubusercontent.com/c816ccb61ca21e548eb074e7ef58cf58b00f1a76248a26d3b554ab8a6deaa084/68747470733a2f2f692e6962622e636f2f564a64785a31542f53696e2d742d74756c6f2e706e67" alt="leonelborgesdev"  height="200" width="350" /> <img align="center" src="https://camo.githubusercontent.com/db5fe7c3b683ab5d1c10b43357f0229e70b6c51830ebc3e8e1e2825757d15406/68747470733a2f2f692e6962622e636f2f5968524a3254312f322e706e67" alt="leonelborgesdev"  height="200" width="350"/></p>
+<p><img align="center" src="https://camo.githubusercontent.com/c816ccb61ca21e548eb074e7ef58cf58b00f1a76248a26d3b554ab8a6deaa084/68747470733a2f2f692e6962622e636f2f564a64785a31542f53696e2d742d74756c6f2e706e67" alt="leonelborgesdev"  height="250" width="400" /> <img align="center" src="https://camo.githubusercontent.com/db5fe7c3b683ab5d1c10b43357f0229e70b6c51830ebc3e8e1e2825757d15406/68747470733a2f2f692e6962622e636f2f5968524a3254312f322e706e67" alt="leonelborgesdev"  height="250" width="400"/></p>
 
-<p><img align="center" src="https://camo.githubusercontent.com/952dfd62f854348aeac570c109078b44f33a505fc1fb02f01b577786d62d4734/68747470733a2f2f692e6962622e636f2f6d304a683052432f342e706e67" alt="leonelborgesdev"  height="200" width="350"/><img align="center" src="./dashboard1.png" alt="leonelborgesdev"  height="200" width="350"/> </p> 
-  <p><img align="center" src="./dashboard2.png" alt="leonelborgesdev"  height="200" width="350"/><img align="center" src="./dashboard3.png" alt="leonelborgesdev"  height="200" width="350"/> </p> 
+<p><img align="center" src="https://camo.githubusercontent.com/952dfd62f854348aeac570c109078b44f33a505fc1fb02f01b577786d62d4734/68747470733a2f2f692e6962622e636f2f6d304a683052432f342e706e67" alt="leonelborgesdev"  height="250" width="400"/> <img align="center" src="./dashboard1.png" alt="leonelborgesdev"  height="250" width="400"/></p>
+
+<p><img align="center" src="./dashboard2.png" alt="leonelborgesdev"  height="250" width="400"/> <img align="center" src="./dashboard3.png" alt="leonelborgesdev"  height="250" width="400"/></p>
+
 - **Contries**
 
-<p><img align="center" src="./1.png" alt="leonelborgesdev"  height="200" width="350" /> <img align="center" src="./2.png" alt="leonelborgesdev"  height="200" width="350"/></p>
-
-<p><img align="center" src="3.png" alt="leonelborgesdev"  height="200" width="350"/> </p>
+<p><img align="center" src="./1.png" alt="leonelborgesdev"  height="250" width="400" /> <img align="center" src="./2.png" alt="leonelborgesdev"  height="250" width="400"/></p>
+<p><img align="center" src="./3.png" alt="leonelborgesdev"  height="250" width="400" /> <img align="center" src="./4.png" alt="leonelborgesdev"  height="250" width="400"/></p>
+<p><img align="center" src="5.png" alt="leonelborgesdev"  height="250" width="400"/> </p>
