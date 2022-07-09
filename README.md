@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonel</h1>
-<h3 align="center">I am programer full stack development</h3>
+<h3 align="center">I am a graduate of the #SoyHenry bootcamp, in the Full-Stack Web Developer career</h3>
 <center><img  align="center" src="https://codeberryschool.com/blog/wp-content/uploads/2021/08/cover-1.png" /></center>
 
 - 🌱 I’m currently learning **TypeScript, React-Native, Mongodb**
