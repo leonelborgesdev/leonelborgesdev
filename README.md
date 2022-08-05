@@ -33,3 +33,10 @@
 <p><img align="center" src="./1.png" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="./2.png" alt="leonelborgesdev"  height="200" width="400"/></p>
 <p><img align="center" src="./3.png" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="./4.png" alt="leonelborgesdev"  height="200" width="400"/></p>
 <p><img align="center" src="./5.png" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="./6.png" alt="leonelborgesdev"  height="200" width="400"/></p>
+
+- **Breeds**
+
+<p><img align="center" src="./dog1.png" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="./dog2.png" alt="leonelborgesdev"  height="200" width="400"/></p>
+<p><img align="center" src="./dog3.png" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="./dog4.png" alt="leonelborgesdev"  height="200" width="400"/></p>
+<p><img align="center" src="./dog5.png" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="./dog6.png" alt="leonelborgesdev"  height="200" width="400"/></p>
+<p><img align="center" src="./dog7.png" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="./dog8.png" alt="leonelborgesdev"  height="200" width="400"/></p>
