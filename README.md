@@ -1,4 +1,4 @@
-<h1 align="center">Hi !!! 👋, I'm Leonel Borges</h1>
+<h1 align="center">Hi !!! 👋, My name is Leonel Borges</h1>
 <h3 align="center">I am a graduate of the #SoyHenry bootcamp, in the Full-Stack Web Developer career</h3>
 <center><img  align="center" src="https://codeberryschool.com/blog/wp-content/uploads/2021/08/cover-1.png" /></center>
 
