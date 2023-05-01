@@ -9,7 +9,7 @@ console.log(<p align="left">
 
 - 🌱 I’m currently learning **TypeScript, React-Native, Mongodb**
 
-- 💬 Ask me about **React, Postgresql, Redux, Node.js**
+- 💬 Ask me about **React, Postgresql, Css, Redux, Node.js**
 
 - 📫 How to reach me **leonel03t@gmail.com**
 
