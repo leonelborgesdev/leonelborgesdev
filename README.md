@@ -1,5 +1,5 @@
 <h1 align="center">Hello people !!! 👋</h1>
-<h3 align="center">My name is Leonel Borges I am a Full-Stack Developer</h3>
+<h3 align="center">My name is Leonel Borges, I am a Full-Stack Developer</h3>
 <p align="left">
 console.log(<p align="left">
 "Welcome to my Profile"
