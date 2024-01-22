@@ -31,7 +31,7 @@ console.log(<p align="left">
 
 <p><img align="center" src="https://github.com/leonelborgesdev/leonelborgesdev/assets/95236206/340759a6-66a8-4866-b425-264b6c37fe23" alt="leonelborgesdev"  height="200" width="400"/> <img align="center" src="https://github.com/leonelborgesdev/CarruselImagenesInfinitoEjemplo/assets/95236206/513a5206-e31c-4819-beab-06859bc70224" alt="leonelborgesdev"  height="200" width="400"/></p>
 
-<p><img align="center" src="./dashboard2.png" alt="leonelborgesdev"  height="200" width="400"/> <img align="center" src="./dashboard3.png" alt="leonelborgesdev"  height="200" width="400"/></p>
+<p><img align="center" src="https://github.com/leonelborgesdev/CarruselImagenesInfinitoEjemplo/assets/95236206/bf7500cb-31e3-44cc-9dc9-bbbf2a0d9d4d" alt="leonelborgesdev"  height="200" width="400"/> <img align="center" src="https://github.com/leonelborgesdev/CarruselImagenesInfinitoEjemplo/assets/95236206/abcc931d-d263-4c1e-a77c-eeac9354e716" alt="leonelborgesdev"  height="200" width="400"/></p>
 
 - **Contries**
 
