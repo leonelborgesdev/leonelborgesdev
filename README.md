@@ -42,7 +42,7 @@ console.log(<p align="left">
 
 - **Breeds**
 
-<p><img align="center" src="./dog1.png" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="./dog2.png" alt="leonelborgesdev"  height="200" width="400"/></p>
-<p><img align="center" src="./dog3.png" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="./dog4.png" alt="leonelborgesdev"  height="200" width="400"/></p>
-<p><img align="center" src="./dog5.png" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="./dog6.png" alt="leonelborgesdev"  height="200" width="400"/></p>
-<p><img align="center" src="./dog7.png" alt="leonelborgesdev"   width="400" /> <img align="center" src="./dog8.png" alt="leonelborgesdev"   width="400"/></p>
+<p><img align="center" src="https://github.com/leonelborgesdev/CarruselImagenesInfinitoEjemplo/assets/95236206/3a703014-944c-4472-ae2b-b47c02febd4a" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="https://github.com/leonelborgesdev/CarruselImagenesInfinitoEjemplo/assets/95236206/1f0c0ea2-c764-46fb-b913-f10beea434e8" alt="leonelborgesdev"  height="200" width="400"/></p>
+<p><img align="center" src="https://github.com/leonelborgesdev/CarruselImagenesInfinitoEjemplo/assets/95236206/e078251a-0899-4f93-a24f-7180fe47ebf8" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="https://github.com/leonelborgesdev/CarruselImagenesInfinitoEjemplo/assets/95236206/e48ebee6-112c-4949-a7e6-3607b338838d" alt="leonelborgesdev"  height="200" width="400"/></p>
+<p><img align="center" src="https://github.com/leonelborgesdev/CarruselImagenesInfinitoEjemplo/assets/95236206/1a3747d7-ab1d-4c4f-8691-abe08bc814a0" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="https://github.com/leonelborgesdev/CarruselImagenesInfinitoEjemplo/assets/95236206/8821dcb6-2f65-436d-a24f-74148a7d4d80" alt="leonelborgesdev"  height="200" width="400"/></p>
+<p><img align="center" src="https://github.com/leonelborgesdev/CarruselImagenesInfinitoEjemplo/assets/95236206/5c221ba5-fd28-4dd9-bd2e-3e2ee523704e" alt="leonelborgesdev"   width="400" /> <img align="center" src="https://github.com/leonelborgesdev/CarruselImagenesInfinitoEjemplo/assets/95236206/db9c08da-c672-4377-9b8f-f3ad0fecfaf1" alt="leonelborgesdev"   width="400"/></p>
