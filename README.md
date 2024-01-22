@@ -29,7 +29,7 @@ console.log(<p align="left">
 
 <p><img align="center" src="https://github.com/leonelborgesdev/leonelborgesdev/assets/95236206/173a4733-ed7c-424b-aede-6c87b054d624" alt="leonelborgesdev"  height="200" width="400" /> <img align="center" src="https://github.com/leonelborgesdev/leonelborgesdev/assets/95236206/a2b0d113-4e62-4db0-aa96-13487e8c8bd2" alt="leonelborgesdev"  height="200" width="400"/></p>
 
-<p><img align="center" src="https://github.com/leonelborgesdev/leonelborgesdev/assets/95236206/340759a6-66a8-4866-b425-264b6c37fe23" alt="leonelborgesdev"  height="200" width="400"/> <img align="center" src="./dashboard1.png" alt="leonelborgesdev"  height="200" width="400"/></p>
+<p><img align="center" src="https://github.com/leonelborgesdev/leonelborgesdev/assets/95236206/340759a6-66a8-4866-b425-264b6c37fe23" alt="leonelborgesdev"  height="200" width="400"/> <img align="center" src="https://github.com/leonelborgesdev/CarruselImagenesInfinitoEjemplo/assets/95236206/513a5206-e31c-4819-beab-06859bc70224" alt="leonelborgesdev"  height="200" width="400"/></p>
 
 <p><img align="center" src="./dashboard2.png" alt="leonelborgesdev"  height="200" width="400"/> <img align="center" src="./dashboard3.png" alt="leonelborgesdev"  height="200" width="400"/></p>
 
